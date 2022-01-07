@@ -1,0 +1,10 @@
+// assets/styles/global.scss
+img{
+    width:80px;
+}
+// customize some Bootstrap variables
+$primary:#01FAEF;
+$secondary: #0012D9;
+
+// the ~ allows you to reference things in node_modules
+@import "~bootstrap/scss/bootstrap";
